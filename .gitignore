@@ -1,3 +1,12 @@
-node_modules/
-dist/
-.vscode/
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+
+# ...even if they are in subdirectories
+# !*/
+
+# if the files to be tracked are in subdirectories
+!*/src/data/demo.json
+# !*/a/b/c/*
