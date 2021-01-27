@@ -10,4 +10,5 @@
 # if the files to be tracked are in subdirectories
 !*/src/data/demo.json
 !*/src/data/demo-old.json
+!*/src/data/demo (1).json
 # !*/a/b/c/*
