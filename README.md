@@ -1,4 +1,6 @@
 use: https://www.ibm.com/cloud/learn/rest-apis
+https://medium.com/technoetics/handling-user-login-and-registration-using-nodejs-and-mysql-81b146e37419
+https://medium.com/technoetics/installing-and-setting-up-mysql-with-nodejs-in-ubuntu-75e0c0a693ba
 
 https://dev.to/ygrik/drag-and-drop-content-editor-for-a-static-website-on-netlify-57e9
 
